@@ -17,4 +17,3 @@ public class Aufgabe02 {
         System.out.println("\n\n");
     }
 }
-
